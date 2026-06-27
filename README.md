@@ -1,127 +1,120 @@
-<h1 align="center">Muhammad Abdullah</h1>
-<p align="center">
-  <strong>AI/ML Enthusiast • Python Developer • Backend Learner • BSCS Student</strong>
-</p>
+<div align="center">
+  <h1>👋 Hi, I'm Muhammad Abdullah!</h1>
+  <h3>AI/ML Enthusiast • Python Developer • Backend Learner • BSCS Student</h3>
+</div>
+
 <p align="center">
   Building intelligent real-world solutions with Python, Machine Learning, NLP, and modern software development practices.
-</p>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-<p align="center">
-  A passionate Computer Science student focused on developing impactful AI-powered applications, practical machine learning systems, and scalable backend solutions.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **BSCS student** with a strong passion for **Artificial Intelligence, Machine Learning, Natural Language Processing, and Software Development**.  
-I enjoy turning ideas into practical software solutions through **clean code, real-world projects, and continuous learning**.  
-My goal is to grow as a developer who builds **intelligent, efficient, and meaningful systems** using modern technologies.
-
----
+<p>
+  I am a passionate Computer Science student focused on developing impactful AI-powered applications, practical machine learning systems, and scalable backend solutions. I enjoy turning ideas into practical software solutions through clean code, real-world projects, and continuous learning. My goal is to grow as a developer who builds intelligent, efficient, and meaningful systems using modern technologies.
+</p>
 
 ## 🚀 Current Focus
 
-- Machine Learning  
-- Natural Language Processing (NLP)  
-- Large Language Models (LLMs)  
-- Python Development  
-- Backend Development  
-- Cloud Computing  
+<p>
+  My current learning and development efforts are concentrated on:
+</p>
 
----
+<ul>
+  <li>Machine Learning</li>
+  <li>Natural Language Processing (NLP)</li>
+  <li>Large Language Models (LLMs)</li>
+  <li>Python Development</li>
+  <li>Backend Development</li>
+  <li>Cloud Computing</li>
+</ul>
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <th align="left">Category</th>
-    <th align="left">Technologies</th>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Python, JavaScript, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML</strong></td>
-    <td>Scikit-learn, Pandas, NumPy, Matplotlib, BERT, Hugging Face Transformers</td>
-  </tr>
-  <tr>
-    <td><strong>Web Development</strong></td>
-    <td>Django, REST APIs</td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td>Git, GitHub, Jupyter Notebook, VS Code, AWS</td>
-  </tr>
-</table>
+<div align="center">
+  <h3>Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  </p>
 
----
+  <h3>AI / ML</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=bert&logoColor=white" alt="BERT"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFC107?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
+  </p>
+
+  <h3>Web Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/REST%20APIs-005C97?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs"/>
+  </p>
+
+  <h3>Tools & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  </p>
+</div>
 
 ## 📌 Featured Projects
 
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-  </tr>
-  <tr>
-    <td><strong>🤖 BERT News Classification</strong></td>
-    <td>News classification system built using BERT and Hugging Face Transformers for intelligent text categorization.</td>
-  </tr>
-  <tr>
-    <td><strong>📊 Customer Churn Prediction</strong></td>
-    <td>Machine learning pipeline designed to predict customer churn using data preprocessing, analysis, and predictive modeling.</td>
-  </tr>
-  <tr>
-    <td><strong>📈 Stock Price Prediction</strong></td>
-    <td>Predictive modeling project focused on forecasting stock prices using historical market data and machine learning techniques.</td>
-  </tr>
-  <tr>
-    <td><strong>🏠 House Price Prediction</strong></td>
-    <td>Regression-based machine learning model developed for house price estimation using relevant property features.</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 LLM Auto Tagging System</strong></td>
-    <td>Automatic tagging system powered by Large Language Models for smarter classification and workflow automation.</td>
-  </tr>
-  <tr>
-    <td><strong>🎓 LGU Smart Portal AI Chatbot</strong></td>
-    <td>Django-based AI chatbot with NLP and Text-to-Speech support for smart academic interaction.</td>
-  </tr>
-</table>
-
----
+| Project Title                      | Description                                                                                                                            |
+| :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 **BERT News Classification**    | News classification system built using BERT and Hugging Face Transformers for intelligent text categorization.                         |
+| 📊 **Customer Churn Prediction**   | Machine learning pipeline designed to predict customer churn using data preprocessing, analysis, and predictive modeling.                |
+| 📈 **Stock Price Prediction**      | Predictive modeling project focused on forecasting stock prices using historical market data and machine learning techniques.            |
+| 🏠 **House Price Prediction**      | Regression-based machine learning model developed for house price estimation using relevant property features.                         |
+| 🧠 **LLM Auto Tagging System**     | Automatic tagging system powered by Large Language Models for smarter classification and workflow automation.                          |
+| 🎓 **LGU Smart Portal AI Chatbot** | Django-based AI chatbot with NLP and Text-to-Speech support for smart academic interaction.                                            |
 
 ## 🎓 Education & Interests
 
-**Bachelor of Science in Computer Science (BSCS)**
+<p>
+  **Bachelor of Science in Computer Science (BSCS)**
+</p>
 
-**Interested in:**
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- Software Engineering  
-- Computer Networks  
+<p>
+  My academic and personal interests include:
+</p>
 
----
+<ul>
+  <li>Artificial Intelligence</li>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Software Engineering</li>
+  <li>Computer Networks</li>
+</ul>
 
 ## 🌱 Vision
 
-I aim to become a developer who combines **strong programming fundamentals**, **modern AI technologies**, and **practical problem-solving skills** to build software that creates real impact.
-
----
+<p>
+  I aim to become a developer who combines strong programming fundamentals, modern AI technologies, and practical problem-solving skills to build software that creates real impact.
+</p>
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/muhammad-abdullah-devpk  
-- **GitHub:** https://github.com/muhammadabdullah-devpk  
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-devpk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/muhammadabdullah-devpk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <strong>Code • Learn • Build • Improve • Repeat</strong>
+  <i>Code • Learn • Build • Improve • Repeat</i>
 </p>
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
