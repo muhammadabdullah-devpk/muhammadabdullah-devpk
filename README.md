@@ -43,18 +43,18 @@
 
   <h3>AI / ML</h3>
   <p>
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-    <img src="https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=bert&logoColor=white" alt="BERT"/>
+    <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="BERT"/>
     <img src="https://img.shields.io/badge/Hugging%20Face-FFC107?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
   </p>
 
   <h3>Web Development</h3>
   <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/REST%20APIs-005C97?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs"/>
+    <img src="https://img.shields.io/badge/REST%20APIs-005C97?style=for-the-badge&logo=airtable&logoColor=white" alt="REST APIs"/>
   </p>
 
   <h3>Tools & Platforms</h3>
@@ -88,7 +88,7 @@
 ## 🎓 Education & Interests
 
 <p>
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663270523161/USbwHhwOBKquGqXd.png" alt="Lahore Garrison University Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Lahore_Garrison_University.png" alt="Lahore Garrison University Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
   <b>Bachelor of Science in Computer Science (BSCS)</b> at Lahore Garrison University (LGU)
 </p>
 
