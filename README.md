@@ -88,7 +88,7 @@
 ## 🎓 Education & Interests
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Lahore_Garrison_University_logo.png/220px-Lahore_Garrison_University_logo.png" alt="Lahore Garrison University Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663270523161/USbwHhwOBKquGqXd.png" alt="Lahore Garrison University Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
   <b>Bachelor of Science in Computer Science (BSCS)</b> at Lahore Garrison University (LGU)
 </p>
 
