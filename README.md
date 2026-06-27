@@ -81,7 +81,8 @@
 ## 🎓 Education & Interests
 
 <p>
-  **Bachelor of Science in Computer Science (BSCS)**
+  <img src="https://www.crunchbase.com/assets/image/a8d4626d634691459141634563456345/lahore-garrison-university-logo.png" alt="Lahore Garrison University Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <b>Bachelor of Science in Computer Science (BSCS)</b> at Lahore Garrison University (LGU)
 </p>
 
 <p>
