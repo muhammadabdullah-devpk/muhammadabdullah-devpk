@@ -77,11 +77,18 @@
 | 🏠 **House Price Prediction**      | Regression-based machine learning model developed for house price estimation using relevant property features.                         |
 | 🧠 **LLM Auto Tagging System**     | Automatic tagging system powered by Large Language Models for smarter classification and workflow automation.                          |
 | 🎓 **LGU Smart Portal AI Chatbot** | Django-based AI chatbot with NLP and Text-to-Speech support for smart academic interaction.                                            |
+| 🦠 **CodeAlpha Disease Prediction** | A machine learning project for predicting diseases, likely using various classification algorithms and medical datasets.                 |
+| 🌸 **Iris Visualization ML**       | A machine learning project focused on visualizing the Iris dataset, exploring data distribution and relationships between features.    |
+| 💼 **Muhammad Abdullah Portfolio**  | A personal portfolio website showcasing projects and skills.                                                                           |
+| ☁️ **AWS CI/CD Pipeline Demo**     | A demonstration project illustrating continuous integration and continuous deployment pipelines using AWS services.                    |
+| 💾 **AWS Cloud Storage Portal**    | A project demonstrating cloud storage solutions using AWS, possibly involving S3 or other storage services.                            |
+| 💳 **CodeAlpha Credit Scoring Model**| A machine learning model developed for credit scoring, assessing creditworthiness based on financial data.                             |
+| ✍️ **CodeAlpha Handwritten Character Recognition** | A deep learning application for accurate handwritten digit recognition using a custom CNN and Streamlit web interface. |
 
 ## 🎓 Education & Interests
 
 <p>
-  <img src="https://www.crunchbase.com/assets/image/a8d4626d634691459141634563456345/lahore-garrison-university-logo.png" alt="Lahore Garrison University Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Lahore_Garrison_University_logo.png/220px-Lahore_Garrison_University_logo.png" alt="Lahore Garrison University Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
   <b>Bachelor of Science in Computer Science (BSCS)</b> at Lahore Garrison University (LGU)
 </p>
 
