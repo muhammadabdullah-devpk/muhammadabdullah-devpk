@@ -1,6 +1,8 @@
-<!-- Typing SVG Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Abdullah!;AI+%2F+ML+Developer;Python+%26+Backend+Engineer" alt="Typing SVG" />
+  <h1><b>👋 MUHAMMAD ABDULLAH</b></h1>
+  <p><b>AI / ML Developer • Python & Backend Engineer • BSCS Student @ LGU</b></p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+NLP;Building+DecodeLabs+Studio;Active+Inference+Pipelines" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,11 +19,11 @@
 
 <div align="center">
 
-# 🌐 **[EXPLORE MY LIVE INTERACTIVE PORTFOLIO WEBSITE HERE](https://muhammadabdullah-portfolio-mu.vercel.app/)**
+# 🌟 **[CLICK HERE TO OPEN MY LIVE INTERACTIVE PORTFOLIO WEBSITE](https://muhammadabdullah-portfolio-mu.vercel.app/)**
 
-### 🚀 **[Click to Open Live Site: https://muhammadabdullah-portfolio-mu.vercel.app/](https://muhammadabdullah-portfolio-mu.vercel.app/)**
+### 🔗 **Live Website URL**: **[https://muhammadabdullah-portfolio-mu.vercel.app](https://muhammadabdullah-portfolio-mu.vercel.app/)**
 
-*Check out my live AI chatbot assistant and run real CNN models in the neural network sandbox!*
+*Interact with my live Gemini AI Copilot chatbot and run CNN neural net scans in the AI Sandbox!*
 
 </div>
 
@@ -82,18 +84,31 @@ I am a passionate **Computer Science student** and **AI/ML Developer** focused o
 
 ---
 
-## 🚀 Featured Studio Suites (DecodeLabs)
+## 🔥 Popular Project Suites (DecodeLabs & CodeAlpha)
 
-These are my signature developer studios and pattern suites, engineered to simplify AI and Computer Vision workflows.
+These are my signature developer studios and open-source project suites, engineered to simplify AI, Computer Vision, and Predictive Analytics.
 
-*   💼 **[DecodeLabs AI Vision Suite](https://github.com/muhammadabdullah-devpk/decodelabs-abdullah-ai-vision-suite)**
+### 💼 DecodeLabs Suites
+*   🤖 **[DecodeLabs AI Vision Suite](https://github.com/muhammadabdullah-devpk/decodelabs-abdullah-ai-vision-suite)**
     *   *An integrated computer vision platform built for real-time video stream analysis, image feature extraction, and neural network visual evaluations.*
+    *   `Python` `OpenCV` `PyTorch` `Tkinter`
 *   🎨 **[DecodeLabs AI Classifier Studio](https://github.com/muhammadabdullah-devpk/decodelabs-abdullah-ai-classifier-studio)**
     *   *A modular desktop studio environment enabling developers to easily upload training sets, configure hyperparameters, train classifiers, and export model weights.*
-*   🧩 **[DecodeLabs Pattern Alignment Suite](https://github.com/muhammadabdullah-devpk/DecodeLabs-Abdullah.AI-Pattern-Alignment-Suite)**
-    *   *A precision alignment engine focused on spatial pattern analysis, geometric alignment validation, and structural anomaly checking.*
-*   🧩 **[DecodeLabs Assistant AI](https://github.com/muhammadabdullah-devpk/DecodeLabs-Abdullah-Assistant-AI)**
+    *   `Python` `Scikit-Learn` `Pandas` `Matplotlib`
+*   🎙️ **[DecodeLabs Assistant AI](https://github.com/muhammadabdullah-devpk/DecodeLabs-Abdullah-Assistant-AI)**
     *   *A task automation framework integrating conversational large language models with customized toolsets for backend automation.*
+    *   `Python` `Transformers` `REST APIs` `SQLite`
+
+### ⚡ CodeAlpha ML Projects
+*   ✍️ **[CodeAlpha Handwritten Character Recognition](https://github.com/muhammadabdullah-devpk/CodeAlpha_Handwritten_Character_Recognition)**
+    *   *A Convolutional Neural Network (CNN) trained for handwritten character recognition, wrapped in an interactive Streamlit application.*
+    *   `TensorFlow` `Keras` `Streamlit` `NumPy`
+*   💳 **[CodeAlpha Credit Scoring Model](https://github.com/muhammadabdullah-devpk/CodeAlpha_CreditScoringModel)**
+    *   *An evaluation dashboard assessing credit risk and loan applicant profiles using decision tree classification.*
+    *   `Python` `Scikit-Learn` `Pandas` `Jupyter`
+*   🦠 **[CodeAlpha Disease Prediction](https://github.com/muhammadabdullah-devpk/CodeAlpha_DiseasePrediction)**
+    *   *ML diagnostics application to predict the onset of chronic diseases based on physical metrics.*
+    *   `Python` `Machine Learning` `Ensemble Classifiers`
 
 ---
 
