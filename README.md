@@ -1,128 +1,118 @@
+<!-- Typing SVG Header Banner -->
 <div align="center">
-  <h1>👋 Hi, I'm Muhammad Abdullah!</h1>
-  <h3>AI/ML Enthusiast • Python Developer • Backend Learner • BSCS Student</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Muhammad+Abdullah!;AI+%2F+ML+Enthusiast+%26+Developer;Python+%26+Backend+Engineer;BSCS+Student+at+LGU;DecodeLabs+Founder" alt="Typing SVG" />
 </div>
 
+<!-- Header Badges -->
 <p align="center">
-  Building intelligent real-world solutions with Python, Machine Learning, NLP, and modern software development practices.
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-devpk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammadabdullah.devpk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-009688?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-BSCS%20%40%20LGU-4A90E2?style=flat-square&logo=read-the-docs&logoColor=white" alt="Education" />
+</p>
+
+<p align="center">
+  <strong>Building intelligent, real-world solutions by bridging raw data with scalable software systems.</strong>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<p>
-  I am a passionate Computer Science student focused on developing impactful AI-powered applications, practical machine learning systems, and scalable backend solutions. I enjoy turning ideas into practical software solutions through clean code, real-world projects, and continuous learning. My goal is to grow as a developer who builds intelligent, efficient, and meaningful systems using modern technologies.
-</p>
+I am a passionate **Computer Science student** and **AI/ML Developer** focused on designing smart applications, practical machine learning systems, and scalable backend workflows. I specialize in building complete AI pipelines, developing complex computer vision architectures, and implementing automated prompt engineering suites.
 
-## 🚀 Current Focus
+*   🔭 **Current Ventures**: Designing the **DecodeLabs** suite of developer tools and smart application portals.
+*   🧠 **Core Focus**: Machine Learning, Natural Language Processing (NLP), Deep Learning, and Cloud Integrations.
+*   🚀 **Philosophy**: Writing clean, structured code and continuously turning theories into production-ready software.
 
-<p>
-  My current learning and development efforts are concentrated on:
-</p>
+---
 
-<ul>
-  <li>Machine Learning</li>
-  <li>Natural Language Processing (NLP)</li>
-  <li>Large Language Models (LLMs)</li>
-  <li>Python Development</li>
-  <li>Backend Development</li>
-  <li>Cloud Computing</li>
-</ul>
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Toolbox
 
 <div align="center">
-  <h3>Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </p>
 
-  <h3>AI / ML</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-    <img src="https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="BERT"/>
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFC107?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Transformers"/>
-  </p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
+| **AI & Machine Learning** | <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFC107?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> |
+| **Backend & Web Dev** | <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-005C97?style=flat-square&logo=airtable&logoColor=white" /> |
+| **Cloud, Databases & Tools** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> |
 
-  <h3>Web Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/REST%20APIs-005C97?style=for-the-badge&logo=airtable&logoColor=white" alt="REST APIs"/>
-  </p>
-
-  <h3>Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  </p>
 </div>
 
-## 📌 Featured Projects
+---
 
-| Project Title                      | Description                                                                                                                            |
-| :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
-| 🤖 **BERT News Classification**    | News classification system built using BERT and Hugging Face Transformers for intelligent text categorization.                         |
-| 📊 **Customer Churn Prediction**   | Machine learning pipeline designed to predict customer churn using data preprocessing, analysis, and predictive modeling.                |
-| 📈 **Stock Price Prediction**      | Predictive modeling project focused on forecasting stock prices using historical market data and machine learning techniques.            |
-| 🏠 **House Price Prediction**      | Regression-based machine learning model developed for house price estimation using relevant property features.                         |
-| 🧠 **LLM Auto Tagging System**     | Automatic tagging system powered by Large Language Models for smarter classification and workflow automation.                          |
-| 🎓 **LGU Smart Portal AI Chatbot** | Django-based AI chatbot with NLP and Text-to-Speech support for smart academic interaction.                                            |
-| 🦠 **CodeAlpha Disease Prediction** | A machine learning project for predicting diseases, likely using various classification algorithms and medical datasets.                 |
-| 🌸 **Iris Visualization ML**       | A machine learning project focused on visualizing the Iris dataset, exploring data distribution and relationships between features.    |
-| 💼 **Muhammad Abdullah Portfolio**  | A personal portfolio website showcasing projects and skills.                                                                           |
-| ☁️ **AWS CI/CD Pipeline Demo**     | A demonstration project illustrating continuous integration and continuous deployment pipelines using AWS services.                    |
-| 💾 **AWS Cloud Storage Portal**    | A project demonstrating cloud storage solutions using AWS, possibly involving S3 or other storage services.                            |
-| 💳 **CodeAlpha Credit Scoring Model**| A machine learning model developed for credit scoring, assessing creditworthiness based on financial data.                             |
-| ✍️ **CodeAlpha Handwritten Character Recognition** | A deep learning application for accurate handwritten digit recognition using a custom CNN and Streamlit web interface. |
+## 🚀 Featured Studio Suites (DecodeLabs)
 
-## 🎓 Education & Interests
+These are my signature developer studios and pattern suites, engineered to simplify AI and Computer Vision workflows.
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Lahore_Garrison_University.png" alt="Lahore Garrison University Logo" width="30" height="30" style="vertical-align: middle; margin-right: 10px;">
-  <b>Bachelor of Science in Computer Science (BSCS)</b> at Lahore Garrison University (LGU)
-</p>
+*   💼 **[DecodeLabs AI Vision Suite](https://github.com/muhammadabdullah-devpk/decodelabs-abdullah-ai-vision-suite)**
+    *   *An integrated computer vision platform built for real-time video stream analysis, image feature extraction, and neural network visual evaluations.*
+*   🎨 **[DecodeLabs AI Classifier Studio](https://github.com/muhammadabdullah-devpk/decodelabs-abdullah-ai-classifier-studio)**
+    *   *A modular desktop studio environment enabling developers to easily upload training sets, configure hyperparameters, train classifiers, and export model weights.*
+*   🧩 **[DecodeLabs Pattern Alignment Suite](https://github.com/muhammadabdullah-devpk/DecodeLabs-Abdullah.AI-Pattern-Alignment-Suite)**
+    *   *A precision alignment engine focused on spatial pattern analysis, geometric alignment validation, and structural anomaly checking.*
+*   🎙️ **[DecodeLabs Assistant AI](https://github.com/muhammadabdullah-devpk/DecodeLabs-Abdullah-Assistant-AI)**
+    *   *A task automation framework integrating conversational large language models with customized toolsets for backend automation.*
 
-<p>
-  My academic and personal interests include:
-</p>
+---
 
-<ul>
-  <li>Artificial Intelligence</li>
-  <li>Machine Learning</li>
-  <li>Deep Learning</li>
-  <li>Software Engineering</li>
-  <li>Computer Networks</li>
-</ul>
+## 📂 Specialized Projects
 
-## 🌱 Vision
+### 🧠 Natural Language Processing & LLMs
+*   🏷️ **[LLM Auto Tagging System](https://github.com/muhammadabdullah-devpk/llm-auto-tagging-system)**
+    *   *Support ticket classification pipeline utilizing advanced zero-shot and few-shot prompt engineering strategies to deliver top-3 category predictions.*
+*   📰 **[BERT News Classification](https://github.com/muhammadabdullah-devpk/bert-news-classification-ml)**
+    *   *A neural text categorization model fine-tuned on BERT (Hugging Face Transformers) to categorize incoming news feeds with high precision.*
+*   🎓 **[LGU Smart Portal AI Chatbot](https://github.com/muhammadabdullah-devpk/lgu-smart-portal-ai-chatbot)**
+    *   *Lahore Garrison University smart portal assistant built with Django, integrating custom NLP models and Text-to-Speech support.*
 
-<p>
-  I aim to become a developer who combines strong programming fundamentals, modern AI technologies, and practical problem-solving skills to build software that creates real impact.
-</p>
+### 📊 Data Science & Predictive ML
+*   📉 **[Customer Churn Prediction](https://github.com/muhammadabdullah-devpk/customer-churn-pipeline-ml)**
+    *   *An end-to-end ML pipeline modeling customer retention using feature engineering, data imputation, and ensemble classifiers.*
+*   📈 **[Stock Price Prediction](https://github.com/muhammadabdullah-devpk/stock-price-prediction-ml)**
+    *   *Forecasting stock market trends and asset valuations using classical regression and time-series models.*
+*   💳 **[CodeAlpha Credit Scoring Model](https://github.com/muhammadabdullah-devpk/CodeAlpha_CreditScoringModel)**
+    *   *An evaluation dashboard assessing credit risk and loan applicant profiles using decision tree classification.*
+*   🏠 **[House Price Prediction](https://github.com/muhammadabdullah-devpk/house-price-prediction-ml)**
+    *   *A multivariate regression analysis project analyzing housing datasets and predicting valuations.*
+*   🦠 **[CodeAlpha Disease Prediction](https://github.com/muhammadabdullah-devpk/CodeAlpha_DiseasePrediction)**
+    *   *ML diagnostics application to predict the onset of chronic diseases based on physical metrics.*
+*   🌸 **[Iris Dataset Visualization](https://github.com/muhammadabdullah-devpk/iris-visualization-ml)**
+    *   *Interactive exploratory data analysis (EDA) and visualization scripts demonstrating relationships within the Iris dataset.*
 
-## 📫 Connect With Me
+### 🖼️ Deep Learning & Vision
+*   ✍️ **[Handwritten Character Recognition](https://github.com/muhammadabdullah-devpk/CodeAlpha_Handwritten_Character_Recognition)**
+    *   *A Convolutional Neural Network (CNN) trained for handwritten character recognition, wrapped in an interactive Streamlit application.*
+
+### ☁️ Cloud & Infrastructure
+*   ⚙️ **[AWS CI/CD Pipeline Demo](https://github.com/muhammadabdullah-devpk/aws-ci-cd-pipeline-demo)**
+    *   *A proof-of-concept pipeline showcasing automated continuous integration and continuous deployment on AWS (CodePipeline, CodeBuild).*
+*   🗄️ **[AWS Cloud Storage Portal](https://github.com/muhammadabdullah-devpk/Aws-cloud-storage-portal)**
+    *   *A web portal application facilitating secure asset management, uploads, and downloads via the AWS S3 client SDK.*
+*   🖥️ **[Muhammad Abdullah Portfolio](https://github.com/muhammadabdullah-devpk/muhammadabdullah-portfolio)**
+    *   *My primary landing page highlighting projects, skill grids, and a contact form.*
+
+---
+
+## 📊 Github Insights
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-devpk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/muhammadabdullah-devpk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah-devpk&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Abdullah's Github Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah-devpk&theme=tokyonight&hide_border=true" alt="Muhammad Abdullah's Github Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah-devpk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Code • Learn • Build • Improve • Repeat</i>
+  <i>💡 "The best way to predict the future is to build it."</i><br>
+  <b>Code • Learn • Build • Improve • Repeat</b>
 </p>
