@@ -19,6 +19,12 @@
   <strong>Building intelligent, real-world solutions by bridging raw data with scalable software systems.</strong>
 </p>
 
+<p align="center">
+  <a href="https://muhammadabdullah-portfolio-mu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Interactive%20Portfolio-Website-00b4d8?style=for-the-badge&logo=react&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
