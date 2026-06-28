@@ -1,9 +1,8 @@
 <!-- Typing SVG Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=28&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Muhammad+Abdullah!;AI+%2F+ML+Engineer+%26+Developer;Python+%26+Backend+Developer;LGU+Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Abdullah!;AI+%2F+ML+Developer;Python+%26+Backend+Engineer" alt="Typing SVG" />
 </div>
 
-<!-- Header Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-abdullah-devpk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,14 +13,16 @@
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-009688?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
-<div align="center" style="margin: 20px 0; padding: 20px; border: 1px solid rgba(0, 180, 216, 0.3); border-radius: 12px; background: rgba(10, 17, 33, 0.5);">
-  <h2 style="color: #00B4D8; margin-bottom: 5px;">🌐 LIVE INTERACTIVE PORTFOLIO</h2>
-  <p style="font-size: 16px;">
-    👉 <b><a href="https://muhammadabdullah-portfolio-mu.vercel.app/" target="_blank" style="color: #00B4D8; text-decoration: none;">EXPLORE MY LIVE WEBSITE: https://muhammadabdullah-portfolio-mu.vercel.app/</a></b>
-  </p>
-  <p style="font-size: 12px; color: #888;">
-    Click the link above to test my live AI chatbot assistant and try out the CNN neural net image classifier sandbox!
-  </p>
+---
+
+<div align="center">
+
+# 🌐 **[EXPLORE MY LIVE INTERACTIVE PORTFOLIO WEBSITE HERE](https://muhammadabdullah-portfolio-mu.vercel.app/)**
+
+### 🚀 **[Click to Open Live Site: https://muhammadabdullah-portfolio-mu.vercel.app/](https://muhammadabdullah-portfolio-mu.vercel.app/)**
+
+*Check out my live AI chatbot assistant and run real CNN models in the neural network sandbox!*
+
 </div>
 
 ---
@@ -91,7 +92,7 @@ These are my signature developer studios and pattern suites, engineered to simpl
     *   *A modular desktop studio environment enabling developers to easily upload training sets, configure hyperparameters, train classifiers, and export model weights.*
 *   🧩 **[DecodeLabs Pattern Alignment Suite](https://github.com/muhammadabdullah-devpk/DecodeLabs-Abdullah.AI-Pattern-Alignment-Suite)**
     *   *A precision alignment engine focused on spatial pattern analysis, geometric alignment validation, and structural anomaly checking.*
-*   🎙️ **[DecodeLabs Assistant AI](https://github.com/muhammadabdullah-devpk/DecodeLabs-Abdullah-Assistant-AI)**
+*   🧩 **[DecodeLabs Assistant AI](https://github.com/muhammadabdullah-devpk/DecodeLabs-Abdullah-Assistant-AI)**
     *   *A task automation framework integrating conversational large language models with customized toolsets for backend automation.*
 
 ---
@@ -134,16 +135,14 @@ These are my signature developer studios and pattern suites, engineered to simpl
 
 ---
 
-## 📊 Github Insights
+## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah-devpk&show_icons=true&theme=radical&hide_border=true" alt="Muhammad Abdullah's Github Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah-devpk&theme=radical&hide_border=true" alt="Muhammad Abdullah's Github Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah-devpk&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
-</p>
+<div align="center">
+  <h3>⚡ Active Open Source Contributions</h3>
+  <p>
+    Developing production-grade Machine Learning pipelines, Convolutional neural networks, and robust cloud configurations.
+  </p>
+</div>
 
 ---
 
